@@ -2,6 +2,7 @@
 
 # **Ahoy** 
 # Track visits and events in Ruby, JavaScript, and native apps. Data is stored in your database by default so you can easily combine it with other data.
+# One of the many benefits of Rails is its rich ecosystem of open source gems which can provide massive value quickly. We discovered one such gem, Ahoy,
 
 + Add this line to your application’s Gemfile:
 
@@ -19,6 +20,6 @@
 # <script src="ahoy.js"></script>
 # Or use Yarn:
   yarn add ahoy.js
-  yarn add ahoy.js  
+ 
 # And add to app/javascript/packs/application.js:
   import ahoy from "ahoy.js";  
